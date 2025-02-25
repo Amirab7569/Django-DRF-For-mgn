@@ -1,0 +1,16 @@
+asgiref
+attrs
+Django
+djangorestframework
+djangorestframework-simplejwt
+drf-spectacular
+inflection
+jsonschema
+jsonschema-specifications
+PyJWT
+PyYAML
+referencing
+rpds-py
+sqlparse
+tzdata
+uritemplate
