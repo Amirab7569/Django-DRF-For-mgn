@@ -1,1 +1,1 @@
-Django with DRF. "Authentication, throttle ETC ..."
+Django with DRF. "Authentication, throttle, permission & ETC ..."
